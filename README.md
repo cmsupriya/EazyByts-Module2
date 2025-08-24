@@ -1,2 +1,2 @@
 # EazyByts-Module2
-Stock Trading Simulation System App
+Stock Trading Simulation System Application
